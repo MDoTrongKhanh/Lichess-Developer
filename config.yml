@@ -1,0 +1,6 @@
+token: "YOUR_LICHESS_BOT_TOKEN"
+engine_path: "./engine/stockfish"
+engine_options:
+  Threads: 2
+  Hash: 128
+challenge_accept: true
